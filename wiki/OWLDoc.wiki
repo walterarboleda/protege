@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary A Protege plug-in for generating Javadoc-style HTML page documentation of an ontology.
 #labels Protege,OWLDoc
 
 = Introduction =
