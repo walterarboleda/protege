@@ -1,5 +1,5 @@
 #summary A Protege plug-in for generating a Javadoc-style HTML representation an ontology.
-#labels Protege,OWLDoc
+#labels Featured
 
 === Description ===
 
