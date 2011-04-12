@@ -1,4 +1,4 @@
-#summary A Protege plug-in for generating a Javadoc-style HTML representation an ontology.
+#summary A Protege plug-in for generating Javadoc-style HTML representations of ontologies.
 #labels Featured
 
 = Description =
