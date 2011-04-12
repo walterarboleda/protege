@@ -1,22 +1,20 @@
 #summary A Protege plug-in for generating a Javadoc-style HTML representation an ontology.
 #labels Featured
 
-<wiki:toc max_depth="3" />
-
-=== Description ===
-
 The *OWLDoc plug-in* was originally developed by [http://www.cs.man.ac.uk/~horridgm/ Matthew Horridge] as part of the [http://www.co-ode.org/ CO-ODE project] at [http://www.manchester.ac.uk/ The University of Manchester].  The CO-ODE project officially finished in August of 2009.  Since then, the [http://protege.stanford.edu/aboutus/aboutus.html Protege team] at Stanford has taken over support and maintenance of OWLDoc.
 
 The web page for the original version of OWLDoc is [http://www.co-ode.org/downloads/owldoc/ still available] on the CO-ODE website.
 
-=== Download ===
+<wiki:toc max_depth="1" />
+
+= Download =
 
 If you are using *Protege 3.4.5*, please download *build 11 of OWLDoc* from the [http://code.google.com/p/protege/downloads/list Downloads section] of this site.  Preserve the path information in the ZIP file and unzip to `<your-protege-install-dir>/plugins`.
 
-=== Level of Support ===
+= Level of Support =
 
 If you have questions and/or issues with OWLDoc, please post a message on the [https://mailman.stanford.edu/mailman/listinfo/protege-owl protege-owl mailing list].  We will try to answer questions and fix bugs as time permits.
 
-=== OWLDoc Source Code ===
+= OWLDoc Source Code =
 
 OWLDoc is open source.  The source code is available to [http://smi-protege.stanford.edu/svn/owldoc/trunk/ browse] or [http://smi-protege.stanford.edu/repos/protege/owldoc/trunk/ download] from the Protege Subversion repository.
