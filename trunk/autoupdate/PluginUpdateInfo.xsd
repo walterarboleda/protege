@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:jxb="http://java.sun.com/xml/ns/jaxb" jxb:version="1.0">
+	<xs:annotation>
+		<xs:documentation xml:lang="en">
+		Schema to describe the update properties for a Protege plug-in (versions 4.1 and above).  Used by Protege's auto update mechanism.
+		Note that schema was not designed for human readability, but rather to generate a particular set of Java classes using the JAXB xjc compiler.
+		Copyright 2011 Stanford Center for Biomedical Informatics Research.
+		</xs:documentation>
+	</xs:annotation>
+	<xs:element name="pluginUpdateInfo" type="PluginUpdateInfo"/>
+	<xs:complexType name="PluginUpdateInfo">
+		<xs:sequence>
+			<xs:element name="name" type="xs:string"/>
+			<xs:element name="author" type="xs:string"/>
+			<xs:element name="license" type="xs:string"/>
+			<xs:element name="readme" type="xs:anyURI" minOccurs="0"/>
+			<xs:element name="download" type="xs:anyURI"/>
+			<xs:element name="categories" minOccurs="0">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="category" type="PluginCategory" minOccurs="0" maxOccurs="unbounded"/>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="dependencies" minOccurs="0">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="dependency" type="PluginDependency" minOccurs="0" maxOccurs="unbounded"/>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+		<xs:attribute name="id" type="xs:string" use="required"/>
+		<xs:attribute name="version" type="xs:string" use="required"/>
+	</xs:complexType>
+	<xs:simpleType name="PluginCategory">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Biomedical Informatics"/>
+			<xs:enumeration value="Code Examples"/>
+			<xs:enumeration value="Export"/>
+			<xs:enumeration value="Import"/>
+			<xs:enumeration value="Inference"/>
+			<xs:enumeration value="Natural Language Processing"/>
+			<xs:enumeration value="Navigation"/>
+			<xs:enumeration value="Project Management"/>
+			<xs:enumeration value="Reasoning"/>
+			<xs:enumeration value="Search"/>
+			<xs:enumeration value="Semantic Web"/>
+			<xs:enumeration value="Software Engineering"/>
+			<xs:enumeration value="Terminologies"/>
+			<xs:enumeration value="Validation"/>
+			<xs:enumeration value="Visualization"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="PluginDependency">
+		<xs:sequence>
+			<xs:element name="symbolicName" type="xs:string"/>
+			<xs:element name="minimumVersion" type="xs:string" minOccurs="0"/>
+			<xs:element name="maximumVersion" type="xs:string" minOccurs="0"/>
+		</xs:sequence>
+	</xs:complexType>
+</xs:schema>
