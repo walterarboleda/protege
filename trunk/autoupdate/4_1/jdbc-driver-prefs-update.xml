@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pluginUpdateInfo version="1.0.0" id="org.protege.osgi.jdbc.prefs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://protege.googlecode.com/svn/trunk/autoupdate/4_1/PluginUpdateInfo.xsd">
+
+	<name>JDBC Driver Preferences Plugin</name>
+
+	<author>The Protege Team</author>
+
+	<license>http://www.gnu.org/licenses/lgpl.html</license>
+	
+	<readme>http://smi-protege.stanford.edu/protege4/plugins/4.0/jdbc.prefs-readme.txt</readme>
+
+	<download>http://smi-protege.stanford.edu/protege4/plugins/4.0/org.protege.osgi.jdbc.prefs.jar</download>
+	
+	<!-- Leaving out categories.  Don't want this plug-in to display in the UI.  Will only be used as a dependency.  -->
+	<categories />
+	
+	<dependencies />
+
+</pluginUpdateInfo>
