@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pluginUpdateInfo version="4.1.1.2010_03_16_0801" id="org.coode.owlviz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://protege.googlecode.com/svn/trunk/autoupdate/4_1/PluginUpdateInfo.xsd">
+	
+	<name>OWLViz</name>
+
+	<author>Matthew Horridge</author>
+
+	<license>http://www.gnu.org/licenses/lgpl.html</license>
+	
+	<readme>http://smi-protege.stanford.edu/protege4/plugins/4.1/owlviz-readme.txt</readme>
+
+	<download>http://smi-protege.stanford.edu/protege4/plugins/4.1/org.coode.owlviz.jar</download>
+
+	<categories>
+		<category>Semantic Web</category>
+		<category>Visualization</category>
+	</categories>
+	
+	<dependencies />
+
+</pluginUpdateInfo>
