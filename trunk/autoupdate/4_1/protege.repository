@@ -1,9 +1,9 @@
 
 # JDBC Preferences Plugin
-http://smi-protege.stanford.edu/protege4/plugins/4.1/jdbc.prefs-update.properties
+http://protege.googlecode.com/svn/trunk/autoupdate/4_1/update-jdbc-driver-prefs.xml
 
 # JDBC Storage Plugin
-http://smi-protege.stanford.edu/protege4/plugins/4.1/jdbc-update.properties
+http://protege.googlecode.com/svn/trunk/autoupdate/4_1/update-jdbc-driver-bundle.xml
 
 # OWLViz
-http://smi-protege.stanford.edu/protege4/plugins/4.1/owlviz-update.properties
+http://protege.googlecode.com/svn/trunk/autoupdate/4_1/update-owlviz.xml
