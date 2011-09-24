@@ -1,32 +1,29 @@
 
-##### UPDATE LOCATIONS (please preserve alphabetical ordering) #####
+// UPDATE LOCATIONS (please preserve alphabetical ordering)
 
-# FaCT++ Reasoner
-# http://factplusplus.googlecode.com/svn/trunk/update.properties.p4.1
+// FaCT++ Reasoner
+// http://factplusplus.googlecode.com/svn/trunk/update.properties.p4.1
 
-# HermiT Reasoner
-# http://www.hermit-reasoner.com/protege-4-1-beta-update/update.properties
+// HermiT Reasoner
+// http://www.hermit-reasoner.com/protege-4-1-beta-update/update.properties
 
-# OWL Editor
-http://smi-protege.stanford.edu/repos/protege/protege4/plugins/org.protege.editor.owl/trunk/etc/update.properties
+// OWLlink HTTPXML Reasoner
+// http://owllink-owlapi.svn.sourceforge.net/viewvc/owllink-owlapi/owllinkapi-owlapi-3.1/trunk/owllinkprotege/src/main/java/update.properties
 
-# OWLlink HTTPXML Reasoner
-# http://owllink-owlapi.svn.sourceforge.net/viewvc/owllink-owlapi/owllinkapi-owlapi-3.1/trunk/owllinkprotege/src/main/java/update.properties
+// Pellet Reasoner
+// http://clarkparsia.com/pellet/protege-4.1-beta/plugin/update.properties
 
-# Pellet Reasoner
-# http://clarkparsia.com/pellet/protege-4.1-beta/plugin/update.properties
-
-# Sadi Service Plugin
-# http://sadi.googlecode.com/svn/trunk/sadi.protege/update.properties
+// Sadi Service Plugin
+// http://sadi.googlecode.com/svn/trunk/sadi.protege/update.properties
 
 
-##### REGISTRY LOCATIONS (please preserve alphabetical ordering) #####
+// REGISTRY LOCATIONS (please preserve alphabetical ordering)
 
-# ACE View
-# http://attempto.ifi.uzh.ch/aceview/aceview.repository
+// ACE View
+// http://attempto.ifi.uzh.ch/aceview/aceview.repository
 
-# CO-ODE Plugins
-http://co-ode-owl-plugins.googlecode.com/svn/trunk/registries/4_1/registry-owlapi-3.1.txt
+// CO-ODE Plugins
+http://co-ode-owl-plugins.googlecode.com/svn/trunk/registries/4_1/co-ode-owl-plugins.repository
 
-# BMIR Plugins
+// BMIR Plugins
 http://protege.googlecode.com/svn/trunk/autoupdate/4_1/protege.repository
