@@ -12,8 +12,5 @@
 	<download>http://smi-protege.stanford.edu/protege4/plugins/4.0/org.protege.osgi.jdbc.jar</download>
 	
 	<!-- Leaving out categories.  Don't want this plug-in to display in the UI.  Will only be used as a dependency.  -->
-	<categories />
-	
-	<dependencies />
 	
 </pluginUpdateInfo>
