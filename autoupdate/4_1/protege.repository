@@ -1,11 +1,11 @@
 // JDBC Preferences Plugin
-http://protege.googlecode.com/svn/trunk/autoupdate/4_1/update-jdbc-driver-prefs.xml
+http://protege.googlecode.com/svn/trunk/autoupdate/4_2/update-jdbc-driver-prefs.xml
 
 // JDBC Storage Plugin
-http://protege.googlecode.com/svn/trunk/autoupdate/4_1/update-jdbc-driver-bundle.xml
+http://protege.googlecode.com/svn/trunk/autoupdate/4_2/update-jdbc-driver-bundle.xml
 
 // OWL Editor
 http://smi-protege.stanford.edu/repos/protege/protege4/plugins/org.protege.editor.owl/trunk/etc/update.properties
 
 // OWLViz
-http://protege.googlecode.com/svn/trunk/autoupdate/4_1/update-owlviz.xml
+http://protege.googlecode.com/svn/trunk/autoupdate/4_2/update-owlviz.xml

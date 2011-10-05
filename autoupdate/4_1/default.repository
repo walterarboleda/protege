@@ -23,7 +23,7 @@
 // http://attempto.ifi.uzh.ch/aceview/aceview.repository
 
 // CO-ODE Plugins
-http://co-ode-owl-plugins.googlecode.com/svn/trunk/registries/4_1/co-ode-owl-plugins.repository
+http://co-ode-owl-plugins.googlecode.com/svn/trunk/registries/4_2/co-ode-owl-plugins.repository
 
 // BMIR Plugins
-http://protege.googlecode.com/svn/trunk/autoupdate/4_1/protege.repository
+http://protege.googlecode.com/svn/trunk/autoupdate/4_2/protege.repository
