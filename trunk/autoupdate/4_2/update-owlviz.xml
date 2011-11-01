@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<pluginUpdateInfo version="4.1.1.2010_03_16_0801" id="org.coode.owlviz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://protege.googlecode.com/svn/trunk/autoupdate/4_1/PluginUpdateInfo.xsd">
+<pluginUpdateInfo version="4.1.1.2010_03_16_0801" id="org.coode.owlviz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://protege.googlecode.com/svn/trunk/autoupdate/4_2/PluginUpdateInfo.xsd">
 	
 	<name>OWLViz</name>
 
