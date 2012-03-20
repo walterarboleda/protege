@@ -16,6 +16,9 @@ http://factplusplus.googlecode.com/svn/trunk/update.properties.p4.1
 //Hermit Reasoner
 http://www.hermit-reasoner.com/protege-4-1-beta-update/update.properties
 
+// Racer Reasoner
+http://www.racer-systems.com/protege/update.properties
+
 // OWL 2 Query
 http://krizik.felk.cvut.cz/km/owl2query/update.properties
 
@@ -50,9 +53,6 @@ http://sadi.googlecode.com/svn/trunk/sadi.protege/update.properties
 
 // Patterns
 // http://www.cs.man.ac.uk/~iannonel/oppl/patterns/downloads/update.properties
-
-// Racer Adapter
-// http://www.uni-ulm.de/fileadmin/website_uni_ulm/iui.inst.090/owl/protege4/update.properties
 
 // SKOS editor
 // http://skoseditor.googlecode.com/svn/trunk/org.sealife.skos/skos-update.properties
