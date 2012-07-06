@@ -5,7 +5,7 @@
 http://attempto.ifi.uzh.ch/aceview/aceview.repository
 
 // CO-ODE (registry used to be http://www.co-ode.org/downloads/protege-x/plugins/co-ode.registry)
-http://co-ode-owl-plugins.googlecode.com/svn/trunk/registries/4_1/registry-owlapi-3.1.txt
+http://co-ode-owl-plugins.googlecode.com/svn/trunk/registries/4_1/registry-protege-4.2.txt
 
 // Code generator
 http://smi-protege.stanford.edu/repos/protege/protege4/plugins/org.protege.editor.owl.codegeneration/trunk/etc/update.properties
