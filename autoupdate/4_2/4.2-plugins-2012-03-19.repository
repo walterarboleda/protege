@@ -41,6 +41,9 @@ http://smi-protege.stanford.edu/repos/protege/protege4/plugins/org.protege.edito
 // Sadi Plugin
 http://sadi.googlecode.com/svn/trunk/sadi.protege/update.properties
 
+// Snorocket Reasoner
+http://aehrc.com/software/snorocket/update-owlapi3.properties
+
 // ***** OUTDATED PLUG-INS *****
 
 // DL Learner
