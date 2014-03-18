@@ -37,6 +37,7 @@ http://clarkparsia.com/pellet/protege-4.1-beta/plugin/update.properties
 // Protege (some contributions from the Stanford-based team)
 http://smi-protege.stanford.edu/protege4/plugins/4.1/protege.registry
 http://smi-protege.stanford.edu/repos/protege/protege4/plugins/org.protege.editor.owl/trunk/etc/update.properties
+http://raw.github.com/protegeproject/autoupdate/master/snap-sparql-query/update.properties
 
 // Sadi Plugin
 http://sadi.googlecode.com/svn/trunk/sadi.protege/update.properties
