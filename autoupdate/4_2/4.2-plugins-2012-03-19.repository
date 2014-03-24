@@ -10,6 +10,9 @@ http://co-ode-owl-plugins.googlecode.com/svn/trunk/registries/4_1/registry-prote
 // Code generator
 http://smi-protege.stanford.edu/repos/protege/protege4/plugins/org.protege.editor.owl.codegeneration/trunk/etc/update.properties
 
+// DL Query
+https://raw.githubusercontent.com/protegeproject/dlquery/master/etc/update.properties
+
 // FaCT++
 http://factplusplus.googlecode.com/svn/trunk/update.properties.p4.1
 
