@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/protegeproject/dlquery/master/etc/update.prope
 // FaCT++
 http://factplusplus.googlecode.com/svn/trunk/update.properties.p4.1
 
-//Hermit Reasoner
+// Hermit Reasoner
 http://www.hermit-reasoner.com/protege-4-1-beta-update/update.properties
 
 // Racer Reasoner
@@ -47,6 +47,9 @@ http://sadi.googlecode.com/svn/trunk/sadi.protege/update.properties
 
 // Snorocket Reasoner
 http://aehrc.com/software/snorocket/update-owlapi3.properties
+
+// uComp Crowdsourcing Validation Plugin
+http://www.ai.wu.ac.at/~wohlg/uComp_plugin/update.properties
 
 // ***** OUTDATED PLUG-INS *****
 
